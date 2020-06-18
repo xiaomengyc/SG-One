@@ -19,7 +19,7 @@ You can use `val_frame_all_mlclasses.py` to test your trained models.
 ### Citation
 If you find this code helpful, please consider to cite this paper:
 ```
-@inproceedings{zhang2020self,
+@inproceedings{zhang2020sgone,
   title={Self-produced Guidance for Weakly-supervised Object Localization},
   author={Zhang, Xiaolin and Wei, Yunchao and Yang, Yi and Huang, Thomas},
   journal={IEEE Transactions on Cybernetics}, 
