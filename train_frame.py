@@ -29,7 +29,7 @@ LR = 1e-5
 
 def get_arguments():
     parser = argparse.ArgumentParser(description='OneShot')
-    parser.add_argument("--arch", type=str,default='onemodel_v25')
+    parser.add_argument("--arch", type=str,default='onemodel_sg-one')
     parser.add_argument("--max_steps", type=int, default=100001)
     parser.add_argument("--lr", type=float, default=LR)
     # parser.add_argument("--decay_points", type=str, default='none')
